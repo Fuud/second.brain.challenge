@@ -1,0 +1,1 @@
+let graphData={graphOptions:{attractionForce:1,linkLength:10,repulsionForce:150,centralForce:3,edgePruning:100,minNodeRadius:3,maxNodeRadius:7},isInitialized:!0,paths:["гаражик/доклад-про-обратную-совместимость.html","гаражик/из-челленжа.html"],nodeCount:2,linkSources:[1],linkTargets:[0],labels:["Доклад про обратную совместимость","Из челленжа"],radii:[7,7],linkCount:1}
