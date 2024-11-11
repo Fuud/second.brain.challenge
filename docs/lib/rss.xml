@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BackwardCompatibility]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>BackwardCompatibility</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 11 Nov 2024 13:04:11 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 11 Nov 2024 13:04:11 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Доклад про обратную совместимость]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BackwardCompatibility]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>BackwardCompatibility</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 11 Nov 2024 13:30:49 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 11 Nov 2024 13:30:48 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Доклад про обратную совместимость]]></title><description><![CDATA[ 
  <br><br>
 <br>Прием заявок открыт до 14 января 2025 года.
 <br><a rel="noopener nofollow" class="external-link" href="https://jpoint.ru/callforpapers/" target="_blank">https://jpoint.ru/callforpapers/</a>
@@ -64,14 +64,14 @@
 
 
 
-]]></description><link>гаражик\доклад-про-обратную-совместимость.html</link><guid isPermaLink="false">Гаражик/Доклад про обратную совместимость.md</guid><pubDate>Mon, 11 Nov 2024 13:03:29 GMT</pubDate></item><item><title><![CDATA[Из челленжа]]></title><description><![CDATA[ 
+]]></description><link>Гаражик\Доклад про обратную совместимость.html</link><guid isPermaLink="false">Гаражик/Доклад про обратную совместимость.md</guid><pubDate>Mon, 11 Nov 2024 13:03:29 GMT</pubDate></item><item><title><![CDATA[Из челленжа]]></title><description><![CDATA[ 
  <br><br>
 <br>Хочу в процессе челленжа подготовить доклад на конференцию 
 
 <br>попробую это сделать научно :)
 
 
-<br>У меня уже были заготовлены кое-какие материалы, пока перенес план по памяти в <a data-href="Доклад про обратную совместимость" href="гаражик\доклад-про-обратную-совместимость.html" class="internal-link" target="_self" rel="noopener nofollow">Доклад про обратную совместимость</a>
+<br>У меня уже были заготовлены кое-какие материалы, пока перенес план по памяти в <a data-href="Доклад про обратную совместимость" href="Гаражик\Доклад про обратную совместимость.html" class="internal-link" target="_self" rel="noopener nofollow">Доклад про обратную совместимость</a>
 <br><br>
 <br>Две независимые и почти непересекающиеся деятельности: 
 
@@ -86,4 +86,4 @@
 <br>ну и Панический Монстр будет подгонять - чем не дополнительная мотивация
 
 
-]]></description><link>гаражик\из-челленжа.html</link><guid isPermaLink="false">Гаражик/Из челленжа.md</guid><pubDate>Mon, 11 Nov 2024 12:37:10 GMT</pubDate></item></channel></rss>
+]]></description><link>Гаражик\Из челленжа.html</link><guid isPermaLink="false">Гаражик/Из челленжа.md</guid><pubDate>Mon, 11 Nov 2024 12:37:10 GMT</pubDate></item></channel></rss>
